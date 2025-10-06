@@ -1,1 +1,3 @@
 LEOFit is an accessible mobile app that acts as a flight tracker and assistant for those travelling to low earth orbit, commercial or otherwise. Overall, the app is a key step to ensuring new travellers feel adapted and prepared for LEO as it is the first stage of commercial spaceflight ventures. Join us in making LEO spaceflight more tolerable for incoming adventurers and people just like us to further humanity beyond earth.
+
+The Grok API key was removed on purpose for security reasons. Note that an API key is neccessary for the chats to work properly
